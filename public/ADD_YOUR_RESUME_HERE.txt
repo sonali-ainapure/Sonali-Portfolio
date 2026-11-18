@@ -1,0 +1,1 @@
+Place your actual resume PDF in this folder and name it resume.pdf. The portfolio's Download Resume button points to /resume.pdf.
